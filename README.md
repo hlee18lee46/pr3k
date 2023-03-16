@@ -2,7 +2,7 @@
 
 Submitted by: **han Lee**
 
-*prj3** is a movie browsing app that allows users to browse movies currently playing in theaters.
+**prj3** is a movie browsing app that allows users to browse movies currently playing in theaters.
 
 Time spent: **30** hours spent in total
 
@@ -10,9 +10,9 @@ Time spent: **30** hours spent in total
 
 The following **required** functionality is completed:
 
-- [ ] **Make a request to [The Movie Database API's `now_playing`](https://developers.themoviedb.org/3/movies/get-now-playing) endpoint to get a list of current movies**
-- [ ] **Parse through JSON data and implement a RecyclerView to display all movies**
-- [ ] **Use Glide to load and display movie poster images**
+- [x ] **Make a request to [The Movie Database API's `now_playing`](https://developers.themoviedb.org/3/movies/get-now-playing) endpoint to get a list of current movies**
+- [ x] **Parse through JSON data and implement a RecyclerView to display all movies**
+- [ x] **Use Glide to load and display movie poster images**
 
 The following **optional** features are implemented:
 
@@ -33,7 +33,7 @@ Here's a walkthrough of implemented user stories:
 <img src='https://i.imgur.com/8vr19CO.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
+GIF created with ...  screentogif
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
